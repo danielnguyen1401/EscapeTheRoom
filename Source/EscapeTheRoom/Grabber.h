@@ -2,8 +2,8 @@
 
 #pragma once
 
+
 #include "EscapeBuilding.h"
-#include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
 #include "Grabber.generated.h"
 

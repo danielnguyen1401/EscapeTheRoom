@@ -32,7 +32,7 @@ private:
 	float OpenAngle = 60.f;
 	
 	UPROPERTY(EditAnywhere)
-	ATriggerVolume* PressurePlate;
+	ATriggerVolume* PressurePlate = nullptr; // Always initialize pointer to nullptr
 
 //	AActor* ActorThatOpen;
 
