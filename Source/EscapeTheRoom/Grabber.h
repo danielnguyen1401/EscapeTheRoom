@@ -37,4 +37,5 @@ private:
 	FVector GetReachLineStart();
 	FVector GetReachLineEnd();
 	const FHitResult GetFirstPhysicBodyInReach();
+
 };
